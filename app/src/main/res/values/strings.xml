@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HomiesTest</string>
+    <string name="search_hint">Search pictures</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="image_url_key">IMAGE_URL</string>
+    <string name="picxabayKey">23021563-547fd24ebabaa7f005e467069</string>
+
+
+</resources>
